@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jewel.addy@gmail.com**
 
-- 📄 Know about my experiences [https://www.jeweladdy.com/assets/Jewel%20Addy-Software%20Engineering%20Resume%2022.pdf](https://www.jeweladdy.com/assets/Jewel%20Addy-Software%20Engineering%20Resume%2022.pdf)
+- 📄 Know about my experiences [via my resume here.](https://www.jeweladdy.com/assets/Jewel%20Addy-Software%20Engineering%20Resume%2022.pdf)
 
 - ⚡ Fun fact **I can cook a majority of soups and dishes from Liberia, West Africa.**
 
