@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a Plant Tracking app.](https://github.com/suhenady/counter-app)
 
-- 🌱 I’m currently learning **PostgreSQL and focusing on back-end engineering.**
+- 🌱 I’m currently learning **PostgreSQL and Python, and focusing on back-end engineering.**
 
 - 👨‍💻 All of my projects are available at [https://www.jeweladdy.com/](https://www.jeweladdy.com/)
 
