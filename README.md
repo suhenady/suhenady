@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jewel</h1>
-<h3 align="center">A passionate frontend developer from the Washington, D.C. area.</h3>
+<h3 align="center">A passionate frontend developer based in NY.</h3>
 
 - 🔭 I’m currently working on [a Plant Tracking app.](https://github.com/suhenady/counter-app)
 
